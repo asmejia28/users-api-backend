@@ -53,24 +53,25 @@ POST	     /usuarios	    Crea un nuevo usuario.
 usuarios-api/
 │
 ├── data/
-│   └── users.js          # Archivo con los datos iniciales (simulados desde Mokaroo)
+│ └── users.js # Archivo con los datos iniciales (simulados desde Mokaroo)
 │
-├── index.js              # Servidor principal con Express
-├── package.json
+├── index.js # Servidor principal con Express
+├── package.json # Dependencias y scripts del proyecto
 ├── package-lock.json
-└── README.md
+└── README.md # Documentación del backend
 
 
 
 ## 📘 Ejemplo de Usuario
-{
-  "id": 1,
-  "nombre": "Henriette Paddie",
-  "telefono": "408-887-8627",
-  "email": "hpaddie0@onmiure.com",
-  "direccion": "Suite 60",
-  "edad": 38,
-  "imagen": "https://randomuser.me/api/portraits/men/1.jpg"
+
+{  
+  "id": 1,  
+  "nombre": "Henriette Paddie",  
+  "telefono": "408-887-8627", 
+  "email": "hpaddie0@onmiure.com",  
+  "direccion": "Suite 60",  
+  "edad": 38,  
+  "imagen": "https://randomuser.me/api/portraits/men/1.jpg"  
 }
 
 ## 🧩 Notas
@@ -83,6 +84,6 @@ No se requiere base de datos.
 
 ## 👨‍💻 Autor
 
-Desarrollado por Sofía Ocampo
-Proyecto académico – Parcial 2
-Ingeniería de Software 💻 | CIAF 
+Desarrollado por Sofía Ocampo  
+Proyecto académico – Parcial 2  
+Ingeniería de Software 💻 | CIAF   
