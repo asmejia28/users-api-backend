@@ -44,9 +44,9 @@ http://localhost:3000
 
 ## 🔗 Endpoints Disponibles
 
-Método	      Ruta	        Descripción  
-GET	         /usuarios	    Obtiene todos los usuarios.  
-POST	     /usuarios	    Crea un nuevo usuario.
+Método	 -    Ruta	       -     Descripción  
+GET	     -    /usuarios	   -    Obtiene todos los usuarios.  
+POST	 -    /usuarios	   -    Crea un nuevo usuario.  
 
 ## 📁 Estructura del Proyecto
 
