@@ -26,7 +26,7 @@ Proporciona un conjunto básico de endpoints para gestionar datos de usuarios ut
 
 1. Clonar el repositorio:
    ```bash
-   git clone https://github.com/tuusuario/usuarios-back-end.git
+   git clone https://github.com/asmejia28/users-api-backend.git
    cd usuarios-back-end
 
 2. Instalar dependencias:
@@ -50,15 +50,15 @@ POST	     /usuarios	    Crea un nuevo usuario.
 
 ## 📁 Estructura del Proyecto
 
-usuarios-api/
-│
-├── data/
-│ └── users.js # Archivo con los datos iniciales (simulados desde Mokaroo)
-│
-├── index.js # Servidor principal con Express
-├── package.json # Dependencias y scripts del proyecto
-├── package-lock.json
-└── README.md # Documentación del backend
+usuarios-api/  
+│  
+├── data/  
+│ └── users.js # Archivo con los datos iniciales (simulados desde Mokaroo)  
+│  
+├── index.js # Servidor principal con Express  
+├── package.json # Dependencias y scripts del proyecto  
+├── package-lock.json  
+└── README.md # Documentación del backend 
 
 
 
